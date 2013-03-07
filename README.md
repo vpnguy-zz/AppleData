@@ -5,7 +5,9 @@ Status: Some invalid, Others valid. Code is messy like no other. Apple started m
 Relased under the GPL for informational uses only please do not use this for bad things. I claim no responsibility for the actions and hypothetical uses for this program in the real world.
 <br />
 <br />
-			GNU GENERAL PUBLIC LICENSE
+
+                 
+          GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
  Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
@@ -283,5 +285,3 @@ TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY
 YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER
 PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGES.
-
-
